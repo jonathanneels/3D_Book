@@ -8,3 +8,5 @@ You can create complete 3D and 2D webpages with this browser tool. You don't nee
 
 Note:
 If you make profit with this product, do contact me for profit sharing and helping with bug-fixing :).
+
+Experiment with this one-of-a-kind project: https://fumetsujo.pythonanywhere.com//static/OTHER/3D_BOOK/index.html
