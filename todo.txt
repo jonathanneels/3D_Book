@@ -2,4 +2,4 @@ To do's;
 
 * Free cam & vr cam implementation + movement
 * Object handling (how in 2d?).
-* Sprite handling (3d ok, not 2d).
+ 
